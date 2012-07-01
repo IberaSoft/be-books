@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="be-books-logo.jpg" title="Be Books">
+  <img src="be-books-logo.jpg" width="50%" title="Be Books">
 </p>
 
 # BeBooks
@@ -62,14 +62,9 @@ It will ask you write the password you set for mysql before. Enter password and 
 
 ```mysql-Login
 Welcome to the MySQL monitor.  Commands end with ; or \g.
-Your MySQL connection id is 3
-Server version: 5.7.19 Homebrew
+Your MySQL connection id is
 
-Copyright (c) 2000, 2017, Oracle and/or its affiliates. All rights reserved.
-
-Oracle is a registered trademark of Oracle Corporation and/or its
-affiliates. Other names may be trademarks of their respective
-owners.
+...
 
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 
@@ -98,8 +93,8 @@ This is optional. You can use MySQL through command line but this is a good way 
 
 ```phpmyadmin-installation
 cd /Library/WebServer/Documents/
-tar -xvf ~/Downloads/phpMyAdmin-4.7.4-english.tar.gz
-mv phpMyAdmin-4.7.4-english/ phpmyadmin
+tar -xvf ~/Downloads/phpMyAdmin-3.5.0-english.tar.gz
+mv phpMyAdmin-3.5.0-english/ phpmyadmin
 cd phpmyadmin
 mv config.sample.inc.php config.inc.php
 ```
