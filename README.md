@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="be-books-logo.jpg" width="50%" title="Be Books">
+  <img src="assets/images/be-books-logo.jpg" width="50%" title="Be Books">
 </p>
 
 # BeBooks
@@ -97,6 +97,18 @@ tar -xvf ~/Downloads/phpMyAdmin-3.5.0-english.tar.gz
 mv phpMyAdmin-3.5.0-english/ phpmyadmin
 cd phpmyadmin
 mv config.sample.inc.php config.inc.php
+```
+
+## Quick Start
+
+1- Open your terminal and clone the repository on your disk
+
+```
+git clone --depth=1 https://github.com/IberaSoft/be-books.git
+```
+2- Import Data Bases from PHPMyAdmin
+```phpmyadmin-installation
+cd assets/BBDD/
 ```
 
 ## License

@@ -1,0 +1,81 @@
+/* CSS Document */
+
+body{
+	text-align: center;	
+}
+
+#wrapper{
+	width: 1000px;
+	border: 0px;
+	margin: 0px auto;
+	padding: 0px;
+}
+
+.ContTitulo{/*TITULO PANEL DE CONTROL*/
+	width: 100%;
+	margin-bottom: -0.19em;
+	font-size: 2.6em;
+	text-align: right;
+	text-transform: uppercase;
+	font-family: Verdana;
+	font-weight: bold;
+	color: #A8CF38;
+	background-color: inherit;
+
+}
+.ContCentral{
+/*CONTENEDOR CENTRAL INCLUYE MENU Y CUERPO*/
+	width: 1000px;
+	height: 600px;
+	*width: 1000px;
+	border: 5px solid #676767;
+	font: 0.78em Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color: #303030;
+	background: url(img_fondo.jpg) no-repeat bottom right;
+}
+
+.ContMenu{/*CONTENEDOR MENU*/
+	width:250px;
+	height: 600px;
+	margin: 0px;
+	padding: 0px;
+	background:gray;
+	text-align:left;
+	float: left;
+}
+#H2{
+	margin-top:5px;
+	margin-bottom:5px;
+	font-size:1.5em;
+	text-align: left;
+	color: #F99839;
+}
+a{
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size:1.1em;
+	color: #286ea0;
+	text-decoration: none;  
+}
+a:hover{
+	color: #303030;
+	font-size:1.1em;
+	background-color: inherit;
+}
+
+ul.menuH li {  
+	display: inline;
+	float:left;
+}
+
+.ContTexto{/*CONTENEDOR TEXTO*/
+	width: 730px !important;	
+	height: 600px;
+	margin: 0px;
+	padding: 0px;
+	float: right;	
+	text-align: left;
+}
+.ContCambia{
+  float:left;
+}

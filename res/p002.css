@@ -1,0 +1,200 @@
+
+/* Fin Estilos para Catalogo */
+#imObj7_01 {padding: 0px; }
+#imCel7_01_Cont {text-align: left; height: 313px; width: 149px; overflow: auto; }
+#imCel7_01 {position: absolute; top: 30px; left: 10px; height: 400px; width: 149px; }
+#imObj7_01 {font: 11px Arial; }
+#imCel1_00 {position: absolute; top: 0px; left: 10px; height: 20px; width: 626px; }
+#imObj1_00 img {border: none; height: 20px; width: 626px; vertical-align: bottom; }
+#imObj1_00 {padding: 0px; }
+#imCel1_00_Cont {text-align: left; height: 20px; overflow: hidden; }
+#imCel1_02 {position: absolute; top: 0px; left: 660px; height: 20px; width: 149px; }
+#imObj1_02 img {border: none; height: 20px; width: 149px; vertical-align: bottom; }
+#imObj1_02 {padding: 0px; }
+#imCel1_02_Cont {text-align: center; height: 20px; overflow: hidden; }
+#imCel9_00 {position: absolute; top: 30px; left: 10px; height: 400px; width: 626px; }
+#imObj9_00 {padding: 0px; }
+#imCel9_00_Cont {text-align: center; height: 400px; overflow: hidden; }
+#imObj9_00 .imCartBrd {float: left; position: relative; height: 106px; width: 313px; }
+#imObj9_00 .imCartItem {position: absolute; left: 2px; top: 0; height: 100px; width: 307px; text-align: left; overflow: hidden; font: 11px Tahoma; color: #000000; background-color: transparent; border: 1px solid #A8A8A8; }
+#imObj9_00 .imCRImg {position: absolute; padding: 4px; text-align: center; height: 100px; width: 115px; left: 0; top: 0; overflow: auto; }
+#imObj9_00 .imCRDescF {position: absolute; padding: 4px; height: 65px; width: 176px; left: 123px; top: 0; overflow: auto; }
+#imObj9_00 .imCRDescR {position: absolute; padding: 4px; height: 42px; width: 176px; left: 123px; top: 0; overflow: auto; }
+#imObj9_00 .imCRLast {position: absolute; bottom: 4px; left: 127px; width: 176px; }
+#imObj9_00 .imCROpt {position: absolute; bottom: 27px; left: 127px; width: 176px; }
+#imObj9_00 input {font: 11px Tahoma; color: #000000; border: 1px solid #AAAAAA; padding: 1px; text-align: right; }
+#imObj9_00 select {font: 11px Tahoma; color: #000000; border: 1px solid #AAAAAA; padding: 1px; }
+
+#imCel7_00 {position: absolute; top: 30px; left: 660px; height: 90px; width: 149px; }
+#imObj7_00 {font: 11px Arial; }
+#imObj7_00 {padding: 0px; }
+#imCel7_00_Cont {text-align: left; height: 90px; width: 149px; overflow: auto; }
+#imCel1_03 {position: absolute; top: 160px; left: 660px; height: 270px; width: 149px; }
+#imObj1_03 img {border: none; height: 20px; width: 149px; vertical-align: bottom; }
+#imObj1_03 {padding: 0px; }
+#imCel1_03_Cont {text-align: center; height: 280px; overflow: hidden; }
+#imCel1_01 {position: absolute; top: 350px; left: 10px; height: 20px; width: 149px; }
+#imObj1_01 img {border: none; height: 17px; width: 146px; vertical-align: bottom; }
+#imObj1_01 {padding: 0px; }
+#imCel1_01_Cont {text-align: center; height: 20px; overflow: hidden; }
+#imCel7_03 {position: absolute; top: 190px; left: 660px; height: 250px; width: 149px; }
+#imObj7_03 {font: 11px Arial; }
+#imObj7_03 {padding: 0px; }
+#imCel7_03_Cont {text-align: left; height: 250px; width: 149px; overflow: hidden; }
+#imCel7_02 {position: absolute; top: 370px; left: 10px; height: 100px; width: 149px; }
+#imObj7_02 {font: 11px Arial; }
+#imObj7_02 {padding: 0px; }
+
+#imPage {position: relative; height: 450px; }
+
+/*articulos*/
+div.articulo{
+	padding-bottom:4px;
+	margin-top:4px
+}
+
+/*estilo de articulos - titulo articulo*/
+/*fuentes*/
+
+a.enlace1:link {
+
+	font-family: Arial, Helvetica, sans-serif, Verdana;
+	font-size: 16px;
+	color: #000000;
+	text-align:left;
+	text-decoration: none;
+	font-weight:bold;
+	font-variant: normal;
+	font-style: normal;
+}
+
+a.enlace1:hover {
+
+	font-family: Arial, Helvetica, sans-serif, Verdana;
+	font-size: 16px;
+	color: #000000;
+	text-decoration: underline;
+	font-weight: bold;
+	font-variant: normal;
+	font-style: normal;
+	text-align:left;
+}
+
+
+a.enlace1:visited {
+
+	font-family: Arial, Helvetica, sans-serif, Verdana;
+	font-size: 16px;
+	color: #000000;
+	text-decoration: none;
+	font-weight:bold;
+	font-variant: normal;
+	font-style: normal;
+	text-align:left;
+}
+
+a.enlace1:active {
+
+	font-family: Arial, Helvetica, sans-serif, Verdana;
+	font-size: 16px;
+	color: #000000;
+	text-decoration: underline;
+	font-weight:bold;
+	font-variant: normal;
+	font-style: normal;
+	text-align:left;
+}
+
+/*estilo de articulos mas vendidos - titulo articulo*/
+/*fuentes*/
+a.enlace2:link {
+	font-family: Arial, Helvetica, sans-serif, Verdana;
+	font-size: 13px;
+	color: #000000;
+	text-align:left;
+	text-decoration: none;
+	font-weight:bold;
+	font-variant: normal;
+	font-style: normal;
+}
+
+a.enlace2:hover {
+	font-family: Arial, Helvetica, sans-serif, Verdana;
+	font-size: 13px;
+	color: #000000;
+	text-decoration: underline;
+	font-weight: bold;
+	font-variant: normal;
+	font-style: normal;
+	text-align:left;
+}
+
+
+a.enlace2:visited {
+	font-family: Arial, Helvetica, sans-serif, Verdana;
+	font-size: 13px;
+	color: #000000;
+	text-decoration: none;
+	font-weight:bold;
+	font-variant: normal;
+	font-style: normal;
+	text-align:left;
+}
+
+a.enlace2:active {
+	font-family: Arial, Helvetica, sans-serif, Verdana;
+	font-size: 13px;
+	color: #000000;
+	text-decoration: underline;
+	font-weight:bold;
+	font-variant: normal;
+	font-style: normal;
+	text-align:left;
+}
+
+
+/*estilo de articulos - autor*/
+/*fuentes*/
+
+a.enlace_autor:link {
+	font-family:verdana;
+	font-size:10px;
+	color:red;
+	text-align:left;
+	text-decoration:none;
+}
+
+a.enlace_autor:hover {
+	font-family:verdana;
+	font-size:10px;
+	color:black;
+	text-align:left;
+	text-decoration:none;
+}
+
+a.enlace_autor:visited {
+	font-family:verdana;
+	font-size:10px;
+	color:red;
+	text-align:left;
+	text-decoration:none;
+}
+
+a.enlace_autor:active {
+	font-family:verdana;
+	font-size:10px;
+	color:red;
+	text-align:left;
+	text-decoration:none;
+}
+
+
+/* Estilos para Menu Informacion Catalogo */
+.menu_infcatalogo{margin:0; padding:0; width:130px; list-style:none;}
+.menu_infcatalogo li a{text-align:left; font:.8em Verdana, Arial, Helvetica, sans-serif; display:block; text-decoration:none;color:black;}
+.menu_infcatalogo li a:hover{color:rgb(153,1,0);}
+.menu_infcatalogo li a.active, .menu li a.active:hover{color:rgb(255,255,255);}
+.menu_infcatalogo li a span{line-height:10px;}
+/* Fin Estilos para Menu Informacion Catalogo */
+
+

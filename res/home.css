@@ -1,0 +1,507 @@
+/* Estilos Pagina Principal */
+
+#imCel1_00 {
+position: absolute; 
+top: 0px; 
+left: 10px; 
+height: 20px; 
+width: 149px; 
+}
+#imObj1_00 img {
+border: none; 
+height: 20px; 
+width: 149px; 
+vertical-align: bottom; 
+}
+#imObj1_00 {
+padding: 0px; 
+}
+#imCel1_00_Cont {
+text-align: left; 
+height: 20px; 
+overflow: hidden; 
+}
+#imCel1_02 {
+position: absolute; 
+top: 0px; 
+left: 169px; 
+height: 20px; 
+width: 149px; 
+}
+#imObj1_02 img {
+border: none; 
+height: 20px; 
+width: 149px; 
+vertical-align: bottom; 
+}
+#imObj1_02 {
+padding: 0px; 
+}
+#imCel1_02_Cont {
+text-align: left; 
+height: 20px; 
+overflow: hidden; 
+}
+#imCel1_04 {
+position: absolute; 
+top: 0px; 
+left: 328px; 
+height: 20px; 
+width: 467px; 
+}
+#imObj1_04 img {
+border: none; 
+height: 20px; 
+width: 449px; 
+vertical-align: bottom; 
+}
+#imObj1_04 {
+padding: 0px; 
+}
+#imCel1_04_Cont {
+text-align: left; 
+height: 20px; 
+overflow: hidden; 
+}
+#imCel1_13 {
+position: absolute; 
+top: 0px; 
+left: 805px; 
+height: 20px; 
+width: 149px; 
+}
+#imObj1_13 img {
+border: none; 
+height: 20px; 
+width: 149px; 
+vertical-align: bottom; 
+}
+#imObj1_13 {
+padding: 0px; 
+}
+#imCel1_13_Cont {
+text-align: center; 
+height: 20px; 
+overflow: hidden; 
+}
+#imCel7_00 {
+position: absolute; 
+top: 30px;
+left: 10px; 
+height: 100px; 
+width: 149px; 
+}
+#imObj7_00 {
+font: 11px Arial; 
+}
+
+/*Estilos de los articulos - titulo articulo*/
+/*enlaces*/
+
+a.enlace1:link {
+	font-family: Arial, Helvetica, sans-serif, Verdana;
+	font-size: 16px;
+	color: #000000;
+	text-align:left;
+	text-decoration: none;
+	font-weight:bold;
+	font-variant: normal;
+	font-style: normal;
+}
+
+a.enlace1:hover {
+	font-family: Arial, Helvetica, sans-serif, Verdana;
+	font-size: 16px;
+	color: #000000;
+	text-decoration: underline;
+	font-weight: bold;
+	font-variant: normal;
+	font-style: normal;
+	text-align:left;
+}
+
+
+a.enlace1:visited {
+	font-family: Arial, Helvetica, sans-serif, Verdana;
+	font-size: 16px;
+	color: #000000;
+	text-decoration: none;
+	font-weight:bold;
+	font-variant: normal;
+	font-style: normal;
+	text-align:left;
+}
+
+a.enlace1:active {
+	font-family: Arial, Helvetica, sans-serif, Verdana;
+	font-size: 16px;
+	color: #000000;
+	text-decoration: underline;
+	font-weight:bold;
+	font-variant: normal;
+	font-style: normal;
+	text-align:left;
+}
+
+/*estilo de articulos - autor*/
+/*enlaces*/
+
+a.enlace_autor:link {
+font-family:verdana;
+font-size:10px;
+color:red;
+text-align:left;
+text-decoration:none;
+}
+
+a.enlace_autor:hover {
+font-family:verdana;
+font-size:10px;
+color:black;
+text-align:left;
+text-decoration:none;
+}
+
+a.enlace_autor:visited {
+font-family:verdana;
+font-size:10px;
+color:red;
+text-align:left;
+text-decoration:none;
+}
+
+a.enlace_autor:active {
+font-family:verdana;
+font-size:10px;
+color:red;
+text-align:left;
+text-decoration:none;
+}
+
+/* -- Fin estilos de los articulos -- */
+
+#imObj7_00 {
+padding: 0px; 
+}
+#imCel7_00_Cont {
+text-align: left; 
+height: 100px; 
+width: 149px; 
+overflow: hidden; 
+}
+#imCel7_04 {
+position: absolute; 
+top: 30px; 
+left: 169px; 
+height: 90px; 
+width: 149px; 
+}
+#imObj7_04 {
+font: 11px Arial; 
+}
+#imObj7_04 {
+padding: 0px; 
+}
+#imCel7_04_Cont {
+text-align: left; 
+height: 90px; 
+width: 149px; 
+overflow: hidden; 
+}
+#imCel7_07 {
+position: absolute; 
+top: 30px; 
+left: 328px; 
+height: 100px; 
+width: 467px; 
+}
+#imObj7_07 {
+font: 11px Arial; 
+}
+
+/* -- Conrtenedor foto del autor -- */
+div.encabezado{
+padding-left:10px;
+float:left;
+}
+
+div.foto_autor{
+float:right;
+padding-right:10px;
+}
+/* -- Fin Conrtenedor foto del autor -- */
+
+
+#imObj7_07 {
+padding: 0px; 
+}
+#imCel7_07_Cont {
+text-align: left; 
+height: 100px; 
+width: 467px; 
+overflow: hidden; 
+}
+#imCel7_08 {
+position: absolute; 
+top: 30px; 
+left: 805px; 
+height: 200px; 
+width: 149px; 
+}
+#imObj7_08 {
+font: 11px Arial; 
+}
+#imObj7_08 {
+padding: 0px; 
+}
+#imCel7_08_Cont {
+text-align: left; 
+height: 200px; 
+width: 149px; 
+overflow: hidden; 
+}
+#imCel1_01 {
+position: absolute; 
+top: 130px; 
+left: 10px; 
+height: 45px; 
+width: 149px; 
+}
+#imObj1_01 img {
+border: none; 
+height: 45px; 
+width: 149px; 
+vertical-align: bottom; 
+}
+#imObj1_01 {
+padding: 0px; 
+}
+#imCel1_01_Cont {
+text-align: left; 
+height: 45px; 
+overflow: hidden; 
+}
+#imCel1_03 {
+position: absolute; 
+top: 130px; 
+left: 169px; 
+height: 45px; 
+width: 149px; 
+}
+#imObj1_03 img {
+border: none; 
+height: 45px; 
+width: 149px; 
+vertical-align: bottom; 
+}
+#imObj1_03 {
+padding: 0px; 
+}
+#imCel1_03_Cont {
+text-align: left; 
+height: 45px; 
+overflow: hidden; 
+}
+#imCel7_09 {
+position: absolute; 
+top: 130px; 
+left: 328px; 
+height: 430px; 
+width: 467px; 
+}
+#imObj7_09 {
+font: 11px Arial; 
+}
+
+/* -- Estilo Contenedor del Autor del Mes -- */
+div.texto{
+clear:both;
+margin:1px;
+padding-top:1px;
+}
+/* -- Fin Estilo Contenedor del Autor del Mes -- */
+
+#imObj7_09 {
+padding: 0px; 
+}
+#imCel7_09_Cont {
+text-align: left; 
+height: 430px; 
+width: 467px; 
+overflow: hidden; 
+}
+#imCel1_12 {
+position: absolute; 
+top: 243px; 
+left: 805px; 
+height: 325px; 
+width: 149px; 
+}
+#imObj1_12 img {
+border: none; 
+height: 325px; 
+width: 149px; 
+vertical-align: bottom; 
+}
+#imObj1_12 {
+padding: 0px; 
+}
+#imCel1_12_Cont {
+text-align: left; 
+height: 325px; 
+overflow: hidden; 
+}
+#imCel7_02 {
+position: absolute; 
+top: 185px; 
+left: 10px; 
+height: 100px; 
+width: 149px; 
+}
+#imObj7_02 {
+font: 11px Arial; 
+}
+#imObj7_02 {
+padding: 0px; 
+}
+#imCel7_02_Cont {
+text-align: left; 
+height: 100px; 
+width: 149px; 
+overflow: auto; 
+}
+#imCel7_05 {
+position: absolute; 
+top: 185px; 
+left: 169px; 
+height: 145px; 
+width: 149px; 
+}
+#imObj7_05 {
+font: 11px Arial; 
+}
+#imObj7_05 {
+padding: 0px; 
+}
+#imCel7_05_Cont {
+text-align: left; 
+height: 145px; 
+width: 149px; 
+overflow: auto; 
+}
+#imCel1_06 {
+position: absolute; 
+top: 300px; 
+left: 10px; 
+height: 45px; 
+width: 149px; 
+}
+#imObj1_06 img {
+border: none; 
+height: 45px; 
+width: 149px; 
+vertical-align: bottom; 
+}
+#imObj1_06 {
+padding: 0px; 
+}
+#imCel1_06_Cont {
+text-align: left; 
+height: 45px; 
+overflow: hidden; 
+}
+#imCel1_08 {
+position: absolute; 
+top: 300px; 
+left: 169px; 
+height: 45px; 
+width: 149px; 
+}
+#imObj1_08 img {
+border: none; 
+height: 45px; 
+width: 149px; 
+vertical-align: bottom; 
+}
+#imObj1_08 {
+padding: 0px; 
+}
+#imCel1_08_Cont {
+text-align: left; 
+height: 45px; 
+overflow: hidden; 
+}
+
+#imCel7_03 {
+position: absolute; 
+top: 395px; 
+left: 10px; 
+height: 150px; 
+width: 149px; 
+}
+#imObj7_03 {
+font: 11px Arial; 
+}
+#imObj7_03 {
+padding: 0px; 
+}
+#imCel7_03_Cont {
+text-align: left; 
+height: 150px; 
+width: 149px; 
+overflow: hidden; 
+}
+#imCel7_06 {
+position: absolute; 
+top: 395px; 
+left: 169px; 
+height: 80px; 
+width: 149px; 
+}
+#imObj7_06 {font: 11px Arial; }
+#imObj7_06 {padding: 0px; }
+#imCel7_06_Cont {text-align: left; height: 80px; width: 149px; overflow: hidden; }
+#imCel1_07 {position: absolute; top: 550px; left: 10px; height: 75px; width: 149px; }
+#imObj1_07 img {border: none; height: 18px; width: 149px; vertical-align: bottom; }
+#imObj1_07 {padding: 0px; }
+#imCel1_07_Cont {text-align: left; height: 75px; overflow: hidden; }
+
+#imCel1_29 {position: absolute; top: 550px; left: 169px; height: 75px; width: 149px; }
+#imObj1_29 img {border: none; height: 18px; width: 149px; vertical-align: bottom; }
+#imObj1_29 {padding: 0px; }
+#imCel1_29_Cont {text-align: left; height: 75px; overflow: hidden; }
+
+#imCel1_09 {position: absolute; top: 485px; left: 169px; height: 75px; width: 149px; }
+#imObj1_09 img {border: none; height: 45px; width: 149px; vertical-align: bottom; }
+#imObj1_09 {padding: 0px; }
+#imCel1_09_Cont {text-align: left; height: 75px; overflow: hidden; }
+#imCel1_11 {position: absolute; top: 558px; left: 328px; height: 10px; width: 467px; }
+#imObj1_11 img {border: none; height: 10px; width: 449px; vertical-align: bottom; }
+#imObj1_11 {padding: 0px; }
+#imCel1_11_Cont {text-align: left; height: 10px; overflow: hidden; }
+#imCel1_14 {position: absolute; top: 590px; left: 10px; height: 18px; width: 149px; }
+#imObj1_14 img {border: none; height: 18px; width: 149px; vertical-align: bottom; }
+#imObj1_14 {padding: 0px; }
+#imCel1_14_Cont {text-align: left; height: 18px; overflow: hidden; }
+#imCel7_10 {position: absolute; top: 618px; left: 10px; height: 5px; width: 944px; }
+#imObj7_10 {font: 11px Arial; }
+#imObj7_10 {padding: 0px; }
+#imCel7_10_Cont {text-align: left; height: 5px; width: 944px; overflow: hidden; }
+#imCel5_00 {position: absolute; top: 633px; left: 10px; height: 112px; width: 944px; }
+#imObj5_00 {position: relative; text-align: left; }
+#imObj5_00 div.imFGPanel {position: relative; }
+#imFGImgCont_0 {position: absolute; overflow: hidden; left: 22px; height: 112px; width: 896px; }
+#imFGImgList_0 {position: absolute; height: 112px; white-space: nowrap; }
+#imFGImgList_0 img {vertical-align: bottom; height: 112px; width: 112px; cursor: pointer; }
+#imObj5_00 .imFGArrowL {position: absolute; top: 32px; left: 0px; }
+#imObj5_00 .imFGArrowR {position: absolute; top: 32px; left: 918px; }
+#imObj5_00 {padding: 0px; }
+#imCel5_00_Cont {text-align: center; height: 112px; overflow: hidden; }
+#imCel7_11 {position: absolute; top: 755px; left: 10px; height: 5px; width: 944px; }
+#imObj7_11 {font: 11px Arial; }
+#imObj7_11 {padding: 0px; }
+#imCel7_11_Cont {text-align: left; height: 5px; width: 944px; overflow: hidden; padding: 10px;  }
+
+#imCel12_0 {position: absolute;top: 20px;left: 10px;height: 20px;width: 149px;}
+#imPage {position: relative; height: 770px; }
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0">
+<channel>
+<title><![CDATA[Noticias]]></title>
+<link>http://www.proyectogutemberg.es</link>
+<description><![CDATA[Actualidad Literaria]]></description>
+<image>
+<url>http://www.proyectogutemberg.es/images/rssfeed.png</url>
+<title><![CDATA[Noticias]]></title>
+<link>http://www.proyectogutemberg.es</link>
+</image>
+<language>es</language>
+<lastBuildDate>Thu, 23 Jul 2009 20:58:23 +0100</lastBuildDate>
+<generator>Incomedia WebSite X5 Evolution</generator>
+<item>
+<title><![CDATA[PROBANDO RSS]]></title>
+<link>http://www.proyectogutemberg.es/home.html</link>
+<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer porttitor egestas tincidunt. Nulla accumsan facilisis erat sed porttitor. Quisque rutrum lacus eu leo semper suscipit pharetra urna blandit. Etiam ut quam eros, in mollis nisi. Nam sed magna vitae dolor laoreet consequat vel dictum diam. Maecenas vitae nisl nulla. Mauris eleifend placerat nisl ac ultrices. Quisque laoreet semper est nec scelerisque. Duis cursus porttitor ipsum quis interdum. Etiam a nulla eu quam posuere lacinia. Nulla luctus condimentum ligula, a eleifend lorem dictum sed. Donec nulla velit, euismod eu accumsan sit amet, aliquam id nibh. Aliquam a consectetur elit. In congue, felis sed vestibulum fermentum, sem neque aliquet nulla, fringilla tristique ante lacus vel turpis.<br /><br />Donec quis viverra nibh. Cras eget venenatis mauris. Nullam blandit pretium tortor id semper. Vestibulum lacinia lectus vitae dolor tempus eu tempus erat euismod. Sed aliquet metus at justo pellentesque imperdiet. Fusce velit enim, pretium id luctus vitae]]></description>
+<pubDate>Sun, 26 Jul 2009 20:17:12 +0100</pubDate>
+<guid isPermaLink="false">http://www.proyectogutemberg.es/oa</guid>
+</item>
+</channel>
+</rss>

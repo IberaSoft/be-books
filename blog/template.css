@@ -1,0 +1,67 @@
+/* Template */
+body {margin: 0; padding: 0; background-color:#dbdbcd; }
+label {display: block;}
+#form_name, #form_email, #form_url, #form_body {width: 200px;}
+input, textarea {border: 1px solid #aaa;}
+
+#imSite {width: 902px; margin: 0 auto; text-align: left; }
+#imHeader {height: 217px; background-image: url('top.jpg'); background-repeat: no-repeat; background-position: left top; cursor: pointer; position: relative; margin: 0;}
+#imBody {background-image: url('content.jpg'); background-repeat: repeat-y; background-position: left top; }
+#imMenuMain {height: 36px; padding: 1px 2px 0 28px; background-image: url('menu.jpg'); background-repeat: no-repeat; background-position: left top; }
+#imContent {padding: 15px 70px 0 45px; margin-left: 15px}
+#imFooter {clear: both; height: 155px; background-image: url('bottom.jpg'); background-repeat: no-repeat; background-position: left top; }
+
+/* Title */
+h1 {position: relative; left: 45px; top: 25px; font: 32px arial,helvetica,clean,sans-serif; color: #63a40a; padding: 45px 0 0 70px; }
+#ImBlogSubTitle {position: relative; left: 45px; top: 25px; font: 24px arial,helvetica,clean,sans-serif; color: #63a40a; padding: 0 0 0 70px;}
+
+/* General */
+p {margin: 0; padding: 0; } 
+form, fieldset {margin: 0; padding: 0; border: none; }
+fieldset legend {visibility: hidden; }
+
+/* Main boxes */
+#ImBlogMain {width: 70%; float: left; padding-left: 3px; margin-left: 5px; font: 13px arial,helvetica,clean,sans-serif; color: #708355; }
+#ImBlogSideBar {width: 25%; float: right; margin-right: 1%; font: 13px arial,helvetica,clean,sans-serif; color: #0d4e26; }
+
+/* Box */
+
+.topBox {margin: 0; }
+.contentBox {margin: 0; }
+.contentText { margin: 0 0 0 20px;}
+.footerBox {margin: 0; }
+
+/* Comments Style */
+.imBlogCommentsCount {font: 14px arial,helvetica,clean,sans-serif; font-weight: bold; color: #3f6906; margin: 10px 0 7px;}
+.imBlogPostCommentUser {font: 12px arial,helvetica,clean,sans-serif; font-weight: bold; color: #3f6906;}
+.imBlogPostCommentBody {font: 12px arial,helvetica,clean,sans-serif; color: #3f6906;}
+.imBlogPostCommentDate {font: 10px arial,helvetica,clean,sans-serif; color: #3f6906; margin: 0 0 10px 0; padding: 0 0 5px 0; border-bottom: 1px dotted #3f6906;}
+.imBlogCommentsForm {font: 12px arial,helvetica,clean,sans-serif; color: #3f6906;}
+
+/* Text Style */
+.imBgMain {}
+.imBlogEmpty {}
+.imBlogPostTitle {font: bold 16px arial,helvetica,clean,sans-serif; color: #3f6906; margin-bottom: 3px;}
+.imBlogPostDetails {font: 9px arial,helvetica,clean,sans-serif; color: #8d8d83; margin-bottom: 5px; }
+.imBlogPostRead {margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px dotted #1d315c; }
+.ImBlogQuote {margin: 10px 15px -5px 5px; padding: 15px; padding-top: 20px; background: url('virgolette.gif') no-repeat left top; font-style: italic; }
+.ImBlogCode {margin: 10px 15px -5px 5px; padding: 5px; border: 1px #bab7b1 solid; font-family: Courier; color: #6a6760; background-color: #a3cb75;}
+#ImBlogPodCast {border: none; vertical-align: baseline; margin-top: 5px}
+
+#imBgBoxSearch {position: absolute; top: 70px; right: 70px; font-size: 12px; width: 275px;}
+#imBgBoxLast, #imBgBoxCateg, #imBgBoxMonths, #imBgBoxClouds {margin: 5px 0 10px 0;}
+.ImBlogBoxTitle {font-family: arial,helvetica,clean,sans-serif; font-size: 110%; font-weight: bold; color: #6a6760; margin: 0 0 10px 3px; }
+#imBgBoxSearch a.ImLink, #imBgBoxLast a.ImLink, #imBgBoxCateg a.ImLink, #imBgBoxMonths a.ImLink {padding-left: 25px; background: url('bullet.gif') no-repeat left top; width: 22px; height: 22px; }
+
+#imSButton { background-color: #bfd39e; color:#3f6908; }
+
+/* -- Links Style -- */
+.imBlogPostCommentUser a, a.ImLink  {text-decoration:none; }
+a.ImLink:link {color: #7b7871; background-color: #bfd39e; }
+.imBlogPostCommentUser a:link {color: #3f6906; }
+.imBlogPostCommentUser a:visited, a.ImLink:visited {color: #636463;}
+.imBlogPostCommentUser a:hover, a.ImLink:hover {color: #3f6906; background-color: #a3cb75;}
+
+
+/* Footer */
+#ImBlogFooter {margin: 80px 0 0 130px; padding-top: 20px; font: 14px Tahoma; color: #63a40a; }

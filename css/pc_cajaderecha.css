@@ -1,0 +1,83 @@
+/* CSS Document */
+.menureg{
+	margin: 0px 0px 0px -39px;
+	padding: 0px 30px 0px 30px;
+	width: 92px;
+	background-color: #D3D3D3;
+	float: left;
+	font: bold 1.4em Arial;
+	text-align: center;
+}
+.menureg_vent{
+  margin: 0px 0px 0px -39px;
+	padding: 0px 2px 0px 2px;
+	width: 133px;
+	background-color: #D3D3D3;
+	float: left;
+	font: bold 1.4em Arial;
+	text-align: center;
+}
+.menureg_usu{
+  margin: 0px 0px 0px -39px;
+	padding: 0px 1px 0px 1px;
+	width: 115px;
+	background-color: #D3D3D3;
+	float: left;
+	font: bold 1.4em Arial;
+	text-align: center;
+}
+
+
+.reg{
+	width: 117px;
+	height: 50px;
+	background-color: white;
+	float: left;
+	text-align: center;	
+	border: .8px solid gray;
+	font-size: 1.2em;
+	overflow: auto;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.reg_a{
+	width: 124px;
+	height: 40px;
+	background-color: white;
+	float: left;
+	text-align: center;	
+	border: .8px solid gray;
+	font-size: 1.2em;
+	overflow: auto;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.reg_v{
+	width: 100px;
+	height: 50px;
+	background-color: white;
+	float: left;
+	text-align: center;	
+	border: .8px solid gray;
+	font-size: 1.2em;
+	overflow: auto;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.reg_u{
+  width: 80px;
+	height: 50px;
+	background-color: white;
+	float: left;
+	text-align: center;	
+	border: .8px solid gray;
+	font-size: 1.2em;
+	overflow: auto;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+	text-decoration: none;
+}
+
+ul.menuH li {
+	display: inline;
+	float: left;
+}
